@@ -1,0 +1,19 @@
+1. Alur
+2. Moduling
+3. Config : URL, PATH
+4. API : Header & Output JSON
+5. API & BACKEND : Credensial
+6. API : Database & Tabel
+7. API : POST, GET, GET by ID, PUT, DELETE, COLLECT, DELETE COLLECT
+8. WEB : TEMPLATE PART
+9. WEB : STATIC & THEME
+10. WEB : Backend Communication
+11. WEB : API Communication
+12. Helper
+13. WEB & BACKEND : LOGIN
+14. WEB & BACKEND & API : HAK AKSES
+15. WEB & BACKEND : NAVIGATION
+--------------------------
+16. Memahami Relasional
+17. Pemanfaatan Session Lebih Dalam
+--------------------------
